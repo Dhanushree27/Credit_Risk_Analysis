@@ -56,6 +56,7 @@ EasyEnsembleClassifier is an adaptive boosting technique and provided better res
 ## Summary
 
 Different resampling and ensemble techniques were applied, but none were completely successful. The resampling techniques performed similar to each other, with around 65% accuracy and very low precision rate and did not result in any successful model. The undersampling method performed the poorest amongst all models. The better performing model was the ensemble technique, _Easy Ensemble Classifier_ that resulted in a accuracy of 93% and sensitivity of 92%, but the precision was still very low at 9%. Therefore, the Easy Ensemble Classifier cannot be considered completely successful.
+
 Though Easy Ensemble Classifier is performing well, it cannot be recommended. In terms of sensitivity it captures 92% of high risk loans, which is a favorable aspect of the model, since sensitivity is more valuable than precision for this particular problem; but, the precision rate, and f1 score are quite low at 9% and 16% respectively. This means that there will be a large number of false positives for high risk, resulting in a lot of loans getting classified as high risk. A model with a more balanced, or atleast a slighly better performance on precision would be more valuable.
 
 
