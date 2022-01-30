@@ -1,6 +1,6 @@
 # Credit Risk Analysis
 
-<img src="https://user-images.githubusercontent.com/90650562/151723008-7b11ed64-0647-4370-87e5-3cdbfa11a567.png" width="800" height="500">
+<img src="https://user-images.githubusercontent.com/90650562/151723008-7b11ed64-0647-4370-87e5-3cdbfa11a567.png" width="1000" height="400">
 
 ## Overview
 
