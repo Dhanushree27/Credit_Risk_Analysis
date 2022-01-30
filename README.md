@@ -21,7 +21,7 @@ RandomOverSampler was imported from imblearn library. The model was used to resa
 
 ![RandomOverSampler](https://github.com/Dhanushree27/Credit_Risk_Analysis/blob/main/images/RandomOverSampler.PNG)
 
-<img src="https://github.com/Dhanushree27/Credit_Risk_Analysis/blob/main/images/RandomOverSampler.PNG" width="900" height="600">
+<img src="https://github.com/Dhanushree27/Credit_Risk_Analysis/blob/main/images/RandomOverSampler.PNG" width="50%" height="50%">
 
 **SMOTE:**
 Similar to RandomOverSampler, another over sampling technique SMOTE was applied and logistic regression was used to predict the outcome. The sampling strategy was set as 'auto'. The metrics revealed 66% accuracy, 1% precision for high risk and 100% for low risk, and 63% sensitivity for high risk. The f1 score was at 2% for high risk. Though the accuracy is slightly higher, the precision is equally bad with a lower sensitivity/ recall. Therefore, the model was **not successful** at predicting the outcome.
