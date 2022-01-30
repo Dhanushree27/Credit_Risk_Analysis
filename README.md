@@ -1,8 +1,8 @@
 # Credit Risk Analysis
 
-## Overview
+<img src="https://user-images.githubusercontent.com/90650562/151723008-7b11ed64-0647-4370-87e5-3cdbfa11a567.png" width="800" height="500">
 
-![image](https://user-images.githubusercontent.com/90650562/151723008-7b11ed64-0647-4370-87e5-3cdbfa11a567.png)
+## Overview
 
 This analysis was undertaken with the intention to apply machine learning to perform credit card risk analysis and predict high risk and low risk applications, based on a credit card credit dataset obtained from LendingClub, a peer-to-peer lending services company.
 
